@@ -1,8 +1,6 @@
 /*Parallel and Distributed Systems
----3rd Assignment---
 --CUDA KNN Algorithm--
 -Author: Mitsios Georgios
--AEM: 6976
 -September 2014
 */
 
